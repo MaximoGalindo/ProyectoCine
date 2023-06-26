@@ -1,2 +1,1 @@
-# ProyectoCine
-Desarrollo Terminado de un proyecto en .Net de un sistema de cine
+Aca se encuentran mis mejores proyectos personales
